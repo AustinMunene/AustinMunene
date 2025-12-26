@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack & Skills
 
-- **Testing:** Cypress, End-to-End Automation, QA for HRMS
+- **Testing:** Cypress, Playwright, End-to-End Automation, QA for HRMS
 - **Frontend:** Next.js, React, TypeScript, JavaScript, HTML/CSS
 - **Other:** Agile, CI/CD basics, Eye for UX/UI
 
