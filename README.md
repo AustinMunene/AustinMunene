@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔍 **QA Engineer** specializing in end-to-end testing of HRMS systems using Cypress & Playwright at Nathan Digital
+- 🔍 **QA Engineer** specializing in end-to-end testing of HRMS systems using **Cypress & Playwright** at Nathan Digital
 - 💻 **Frontend Developer** with a passion for building sleek, performant web apps using **Next.js**, **React**, and **TypeScript**.
 - 🚀 Always curious, always learning, and always striving for pixel-perfect, bug-free user experiences.
 
