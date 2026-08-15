@@ -14,7 +14,7 @@
 
 ## 🚩 Featured Projects
 
-- 🎨 [**Portfolio**](https://austinmunene.netlify.app/) — My personal showcase, built with love and modern web tech.
+- 🎨 [**Portfolio**](https://austin.is-a.dev/) — My personal showcase, built with love and modern web tech.
 - 🍰 **ShadesOfCake** — Bringing color and creativity to the web (ask me about it!).
 
 ---
